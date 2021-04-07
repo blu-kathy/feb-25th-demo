@@ -32,3 +32,4 @@ now add some secrets
 secret = 'aUSHFPDSHFQp18uPjSf9*'
 
 1111
+ready
