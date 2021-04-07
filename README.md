@@ -29,6 +29,8 @@ comment out start time
 wrong timezone
 too many connections
 now add some secrets
+
+correct line no?
 secret = 'aUSHFPDSHFQp18uPjSf9*'
 
 unhashable type list
