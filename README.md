@@ -7,3 +7,6 @@ solid air john martyn
 
 add another
 another commit bc of typo
+
+
+secret = 'LJhdsof10SDJV18*'
