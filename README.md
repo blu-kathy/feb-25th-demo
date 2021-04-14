@@ -1,3 +1,28 @@
 # feb-25th-demo
 
 update last contr time
+
+apr 12th
+solid air john martyn
+
+add another
+another commit bc of typo
+
+
+misplaced line no
+removed secret
+
+
+!!!!! 
+!!!!iurh1i2ry91ryafpiu12
+gone gone 
+
+almost there
+add another commit
+match
+
+
+
+
+displace the line no
+secret = 'iurh1i2ry91ryafpiu12'
