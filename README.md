@@ -3,3 +3,4 @@
 update last contr time
 
 pew pew
+local skip scan
